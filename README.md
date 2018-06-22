@@ -126,6 +126,7 @@ Server Side Swift frameworks are projects that provide an infrastructure with wh
 * [Perfect UUID](https://github.com/PerfectlySoft/Perfect) - included in Core library.
 * [POSIXRegex](https://github.com/ZewoGraveyard/POSIXRegex) - provides POSIX Regular Expressions for Swift 3.0.
 * [HTTP Serializer](https://github.com/ZewoGraveyard/HTTPSerializer)
+* [ManagedPool-sw](https://github.com/neallester/TheList.git) - A thread safe tunable pool of objects.
 
 ## Authentication
 
